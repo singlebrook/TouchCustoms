@@ -451,12 +451,10 @@
 				GCC_PREPROCESSOR_DEFINITIONS = "SC_LOG_LEVEL=2";
 				INSTALL_PATH = /usr/local/lib;
 				IPHONEOS_DEPLOYMENT_TARGET = 3.0;
-				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_NAME = TouchCustoms;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv7f armv7k i386";
 			};
 			name = Debug;
 		};
@@ -475,7 +473,6 @@
 				PRODUCT_NAME = TouchCustoms;
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "armv7 armv7f armv7k i386";
 			};
 			name = Release;
 		};
